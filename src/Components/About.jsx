@@ -16,27 +16,25 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a image you
  * freely use on your site.
  */
-import image from "../images/motion-background.jpg";
+import image from "../images/background.png";
 
-const imageAltText = "purple and blue abstract background";
+const imageAltText = "background";
 
 /**
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+  "I'm Devansh Behl currently persuing B.Tech at Netaji Subhas University of Technology,I am a Full Stack Developer and have a keen interest in Blockchain and Web 3.0.";
+  
 
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
  */
 const skillsList = [
-  "Web design",
+  "Full stack development",
   "User experience",
-  "Inclusive design",
-  "Focus group testing",
-  "Mobile user interfaces",
-  "Graphic design",
+  "Blockchain development",
 ];
 
 /**
